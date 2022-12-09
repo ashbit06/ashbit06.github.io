@@ -1,0 +1,16 @@
+{
+	"accounts": {
+		"dGH2kH": {
+			"username": "g",
+			"nickname": "ashbit0192",
+			"password": "d0gg0m4n69",
+			"tags": {
+				"isAdmin": true,
+				"isBanned": false,
+				"showTags": true,
+				"infractions": 2,
+				"isGuest": false
+			}
+		}
+	},
+}
